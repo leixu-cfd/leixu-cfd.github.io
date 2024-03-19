@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "CFD / 计算流体力学"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lei Xu / 徐磊"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "Short biography for the left-hand sidebar"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lei.xu@siat.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
