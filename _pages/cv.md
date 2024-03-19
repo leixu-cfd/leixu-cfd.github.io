@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Fluid Dynamics, Shanghai University, 2018
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Fluid Dynamics, Shanghai University, 2013-2018
+* Visiting student in Computer Science, University of Colorado Boulder, 2015-2016
+* M.S. in Computer Science, Shanghai University, 2010-2013
+* B.S. in Computational Mathematics, Shanghai University of Electric Power, 2006-2010
 
 Work experience
 ======
