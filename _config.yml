@@ -8,7 +8,7 @@ Welcome to Jekyll!
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LESC Lab"
+title                    : "CFD Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
