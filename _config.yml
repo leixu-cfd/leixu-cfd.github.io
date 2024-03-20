@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "CFD / 计算流体力学"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
